@@ -1,0 +1,32 @@
+.todo .ol{
+    list-style: none;
+   
+}
+.todo ol{
+    padding: 2px;
+}
+.todo ol{
+    cursor: pointer;
+    width: 400px;
+    color:white;
+    text-align: left;
+    margin-left: -30px;
+    
+   
+}
+.todo .isCompletetask{
+    font-size: 20px;
+    color: green;
+    text-decoration: line-through;
+    additive-symbols: -o-linear-gradient();
+    
+}
+.todo .duetask{
+    font-size: 20px;
+    color: red;
+}
+.stutas{
+    text-align: end;
+    display: flex;
+    justify-content: end;
+}
